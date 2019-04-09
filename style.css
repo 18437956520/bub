@@ -1,0 +1,31 @@
+div{
+    border: 1px black solid;
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    flex: 1;
+}
+.red{
+    margin: 50px auto;
+    width: 30vw;
+    height: 30vw;
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.cyan{
+    background-color: cyan;
+}
+.blue{
+    background-color: blue;
+}
+.purple{
+    background-color: purple;
+}
